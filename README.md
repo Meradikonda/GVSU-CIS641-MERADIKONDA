@@ -1,4 +1,4 @@
-#Team Meradikonda
+# Team Meradikonda
 ## Electronics Warehouse Inventory
 >The goal of this project is to develop a website for customers who wants to buy goods from an electronics warehouse. This website should help the owners to manage, organize their product availability, and for the customers to navigate and purchase electronic goods as per their needs.
 
