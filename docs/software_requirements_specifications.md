@@ -25,4 +25,4 @@ This document refers to the Software requirement specification of the project El
   
 2. Version Control:
 
-  1. Need to solve the merge conflicts if any raised while doing code "Pull".
+   1. Need to solve the merge conflicts if any raised while doing code "Pull".
