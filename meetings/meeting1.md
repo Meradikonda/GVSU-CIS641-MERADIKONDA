@@ -2,13 +2,13 @@
 
 **Members present**: Meradikonda Saikiran
 
-**Discussion points: **
+## Discussion points:
 
 * Discussed on implementing the Roles and responsibility for ADMIN and CUSTOMER. 
 * Discussed on creating the types of produvt categories.
 * Discussed on implementing the search concept for product search in the dashboard screen.
 
-**Goals for next week (include responsibilities)**
+## Goals for next week (include responsibilities):
 
 * Implementing the CUSTOMER/ADMIN and login screen.
 * Implementing the CUSTOMER signup/registration flow.
