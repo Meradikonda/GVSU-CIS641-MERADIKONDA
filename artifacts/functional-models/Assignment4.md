@@ -1,1 +1,1 @@
-# Please find the doccument for the Assignment 4 in this directory
+# Please find the document for the Assignment 4 in this directory
