@@ -1,0 +1,124 @@
+ 
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Position text in the middle of the page/image */
+.bg-text {
+  background-color: rgb(1,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.1); /* Black w/opacity/see-through */
+  color: red;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+  animation: animate
+                3s linear infinite;
+}
+
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+h2 {
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 3rem;
+  color: black;
+  white-space: nowrap;
+}
+h4 {
+  color:black;
+  font-size: 2rem;
+
+}
+
+/* Set gray background color and 100% height */
+.sidenav {
+	padding-top: 20px;
+	background-color: #f1f1f1;
+	height: 100%;
+}
+
+ 
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+.text-center{
+	size:10%;
+	color: white;
+	padding: 5px 20px;
+	border: none;
+	width: 100%;
+	opacity: 0.9;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+	width: 100%;
+	padding: 10px;
+	margin: 5px 0 22px 0;
+	border: oval;
+	background: #f1f1f1;
+}
+
+.bg-text {
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+  font-weight: bold;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+  height:80%;
+  padding: 20px;
+  text-align: left;
+}
+
+
+input[type=text]:focus, input[type=password]:focus {
+	background-color: #ddd;
+	outline: none;
+}
+
+/* Set a style for the submit button */
+.btn {
+	background-color: #96CF6E;
+	color: white;
+	padding: 16px 20px;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	opacity: 0.9;
+}
+
+
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+.btn:hover {
+	opacity: 1;
+}
+ 
