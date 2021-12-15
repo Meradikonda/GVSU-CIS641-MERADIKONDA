@@ -9,3 +9,14 @@
 * Must have knowledge on MVC design pattern, Scrum, php.
 * Should have basic knowledge on mySql database.
 * must have hands-on experience on any server(eg: tomcat, Xamp)
+
+### installation:
+* Download Xampp from the internet https://www.apachefriends.org/download.html
+* Instal Xampp in to the local machine.
+* Download the code the file from the git repo.
+* Add code directory into the /Xampp/htdocs/
+
+### Run:
+* Run Xampp.
+* Localhost Database link: http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=inventory
+* Localhost application link: http://localhost/project/index.php
