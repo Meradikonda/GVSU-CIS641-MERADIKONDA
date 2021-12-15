@@ -143,7 +143,17 @@ Electronic warehouse Inventory will help the owners to manage, organize their pr
 * Proper management support and training resources will be provided for the customer to get more involved in the application use.
 * Assist customer in fully accepting the new procedures and ensuring that they understand they offer promising ways for providing high-quality customer care.
 * The customer will be guided and assisted the execution effort as the new practices are rolled out across the application to effectively manage the change process.
+  
+### How will you ensure it integrates within their ecosystem / software?
 
+The data being added and produced will be stored with in the electronic warehouse system.  This data is also helpful to track all the information of products as well as the customer. We can show the stakeholders the data is being enclosed with in the database of the same server. We can view all the information through the User interface. All the products information customer signup information and product feedback given by the customer can be view through the admin console. From customer console, it is like the online e shopping website. All the information will be integrated with in the software.
+
+### How will you ensure that it any discovered issues are resolved?
+
+We can assure that any discovered issues can be moved to production in the couple days after we got reported on the website. Unfortunately, we don't have any log trackers inside the application. The customers or the stakeholders must report any issues directly to the product owner. We will try to implement the logs inside the application that will be helpful to monitor the application from initial to the end. So, that it will be easy to modify/update any change. If anything goes wrong for the stakeholder, we will roll back the change for time being and work on fixing the issue.
+  
+  
+  
   
   
   
@@ -196,12 +206,4 @@ Class diagram: https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/blob/main/
 Use case and activity diagram:  https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/blob/main/artifacts/use%20case%20and%20activity%20diagram.pdf
 
 
-Acticity diagrams: https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/blob/main/artifacts/ACTIVITY%20DIAGRAMS.docx
-  
-### How will you ensure it integrates within their ecosystem / software?
-
-The data being added and produced will be stored with in the electronic warehouse system.  This data is also helpful to track all the information of products as well as the customer. We can show the stakeholders the data is being enclosed with in the database of the same server. We can view all the information through the User interface. All the products information customer signup information and product feedback given by the customer can be view through the admin console. From customer console, it is like the online e shopping website. All the information will be integrated with in the software.
-
-### How will you ensure that it any discovered issues are resolved?
-
-We can assure that any discovered issues can be moved to production in the couple days after we got reported on the website. Unfortunately, we don't have any log trackers inside the application. The customers or the stakeholders must report any issues directly to the product owner. We will try to implement the logs inside the application that will be helpful to monitor the application from initial to the end. So, that it will be easy to modify/update any change. If anything goes wrong for the stakeholder, we will roll back the change for time being and work on fixing the issue.
+Acticity diagrams: https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/blob/main/artifacts/ACTIVITY%20DIAGRAMS.docx  
