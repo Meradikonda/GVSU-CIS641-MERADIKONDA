@@ -8,7 +8,7 @@
 ### Prerequisites: 
 * Must have knowledge on MVC design pattern, Scrum, php.
 * Should have basic knowledge on mySql database.
-* must have hands-on experience on any server(eg: tomcat, Xamp)
+* must have hands-on experience on any server(eg: tomcat, Xampp)
 
 ### installation:
 * Download Xampp from the internet https://www.apachefriends.org/download.html
