@@ -34,7 +34,6 @@
 | FR12| Customer shall login with his credentials with which he has registered. |
 | FR13 | For incorrect credentials a pop-up message “invalid username or password “is displayed. |
 | FR14 | If any of the username or the password field are left empty then the error message “please fill out this field” is displayed. |
-
 | FR15 |After successful login the page shall be redirected to customers electronic warehouse account. |
 | … | … | … |
   
@@ -58,7 +57,6 @@
 | FR24 |The customer shall get the notifications about the newly arrival of the products in the new arrivals. |
 | FR25 |The customer shall see the items that he/ she has added in the cart menu. |
 | FR26 |The customer shall anytime logout of his account. |
-
 | … | … | … |
 
   
