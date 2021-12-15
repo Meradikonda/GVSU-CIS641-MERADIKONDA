@@ -146,6 +146,58 @@ Electronic warehouse Inventory will help the owners to manage, organize their pr
 
   
   
+  
+
+  
+## Use Case Diagram Traceability
+USECASE DIAGRAM: https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/blob/main/artifacts/USE%20CASE.docx
+| Artifact Name  |  Requirement ID |
+| :-------------: |  :----------: |
+| Customer profile creation |  FR16, FR17, FR18, FR19, FR20 |
+| Customer login |  FR11, FR12, FR13, FR14, FR15|
+| Admin login | FR6, FR7, FR8, FR9, FR10 |
+| Customer adds product to cart |  FR21, FR22, FR23, FR24, FR25 |
+
+
+
+## Class Diagram Traceability 
+
+ CLASS DIAGRAM : https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/blob/main/artifacts/Class%20Diagram%20for%20Admin%20(1).docx
+| Artifact Name | Requirement ID |
+| :-------------: |:----------: |
+| ADMIN PROFILE | F6, F7, F8, F9, F10, NFR9, NFR14, NFR15, NFR23, NFR24 |
+| MENU | FR28, FR30, FR31, NFR13,  |
+
+
+
+
+
+## Activity Diagram Traceability
+ACTIVITY DIAGRAM : https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/blob/main/artifacts/ACTIVITY%20DIAGRAMS.docx
+
+| Artifact Name | Requirement ID |
+ | :----------: | :----------: |
+ | customer registration | FR16,FR17,FR18, FR19, FR20, NF12|
+ | Admin crud operations| FR27, FR28, FR29, FR30, FR31, NFR13 |
+
+
+
+
+# Software Artifacts
+
+Code: https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/tree/main/code 
+
+Functional models: https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/tree/main/artifacts/functional-models
+
+HCI (WND): https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/tree/main/artifacts/hci
+ 
+Class diagram: https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/blob/main/artifacts/Class%20Diagram%20for%20Admin%20(1).docx
+
+Use case and activity diagram:  https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/blob/main/artifacts/use%20case%20and%20activity%20diagram.pdf
+
+
+Acticity diagrams: https://github.com/Meradikonda/GVSU-CIS641-MERADIKONDA/blob/main/artifacts/ACTIVITY%20DIAGRAMS.docx
+  
 ### How will you ensure it integrates within their ecosystem / software?
 
 The data being added and produced will be stored with in the electronic warehouse system.  This data is also helpful to track all the information of products as well as the customer. We can show the stakeholders the data is being enclosed with in the database of the same server. We can view all the information through the User interface. All the products information customer signup information and product feedback given by the customer can be view through the admin console. From customer console, it is like the online e shopping website. All the information will be integrated with in the software.
